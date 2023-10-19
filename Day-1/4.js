@@ -1,0 +1,17 @@
+let name = "🆁🅸🆃🅴🆂🅷";
+let school = "🅼🅰🆂🅰🅸";
+let grade = "🅾";
+let section = "🅰";
+let rollno = 13;
+let math = 95;
+let physics = 94;
+let chemistry = 96;
+console.log("########### REPORT  CARD ###############");
+console.log("###########Name is ", name, "###########");
+console.log("###########School is ", school, "###########");
+console.log("###########Grade is ", grade, "###########");
+console.log("###########Section is ", section, "###########");
+console.log("###########Rollno is ", rollno, "###########");
+console.log("###########No in Math is ", math, "###########");
+console.log("###########No in Physics is ", physics, "###########");
+console.log("###########No in Chemistry is ", chemistry, "###########");
